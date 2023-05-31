@@ -1,4 +1,4 @@
-const apiKey = '0afcd960d728176569f99e682a6da658'
+const apiKey = ''
 let city = ''
 const input = document.querySelector('.search')
 const cityName = document.querySelector('#cityName')
